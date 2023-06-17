@@ -44,16 +44,17 @@ en: &DEFAULT_EN
     people:
       - name: "dee"
         role: "vocals and flute"
-        image: assets/img/team/golden-retriever.jpeg
+        image: assets/img/team/IMG_5674.HEIC
       - name: "sandi"
         role: "vocals"
-        image: assets/img/team/labrador.jpeg
+        image: assets/img/team/IMG_5675.HEIC
       - name: "junko"
         role: "vocals"
-        image: assets/img/team/german-shepherd.jpeg
+        image: assets/img/team/IMG_5676.HEIC
       - name: "amanda"
         role: "ukulele"
-        image: assets/img/team/cockapoo.jpeg
+        image: assets/img/team/IMG_5677.HEIC
+
 
   contact:
     title: "Contact Us"
