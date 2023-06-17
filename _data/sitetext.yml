@@ -22,8 +22,8 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "June 24"
-        desc: "Ryan Park in Foster City"
-        icon: fas fa-tree #find more at https://fontawesome.com/icons
+        desc: "Castro Street, Mountain View"
+        icon: fas fa-city #find more at https://fontawesome.com/icons
 
   portfolio:
     title: "Music"
@@ -44,16 +44,16 @@ en: &DEFAULT_EN
     people:
       - name: "dee"
         role: "vocals and flute"
-        image: assets/img/team/IMG_5674.HEIC
+        image: assets/img/team/dee.jpeg
       - name: "sandi"
         role: "vocals"
-        image: assets/img/team/IMG_5675.HEIC
+        image: assets/img/team/sandi.jpeg
       - name: "junko"
         role: "vocals"
-        image: assets/img/team/IMG_5676.HEIC
+        image: assets/img/team/june.jpeg
       - name: "amanda"
         role: "ukulele"
-        image: assets/img/team/IMG_5677.HEIC
+        image: assets/img/team/amanda.jpeg
 
 
   contact:
