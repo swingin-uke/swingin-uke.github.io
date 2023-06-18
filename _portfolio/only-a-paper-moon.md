@@ -9,8 +9,11 @@ caption:
   subtitle: Ella Fitzgerald and The Delta Rhythm Boys
   thumbnail: https://i.ytimg.com/vi/T0dFWXlhPws/maxresdefault.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+This will be part of our set when we busk on Castro Street in front of where the KiwiCo pop up used to be.
+
 
 {:.list-inline}
-- Date: When Recorded
-- Location: Where We Played
+- Practice: [With a Flute](https://drive.google.com/file/d/1DxWNt_ZRaqH71pNerCxCBoJ7letkGtb_/view?usp=drive_link)
+- Practice: [With Scatting](https://drive.google.com/file/d/1Xa4JmFnmTiV-DFkw2yb7Ema-vXDVaJI2/view?usp=drive_link)
+- Location: Mountain View, California

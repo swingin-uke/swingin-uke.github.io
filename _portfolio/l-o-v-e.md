@@ -9,8 +9,9 @@ caption:
   subtitle: Nat King Cole
   thumbnail: https://gray-wabi-prod.cdn.arcpublishing.com/resizer/ZCTJ9vvrGP4a1WY_MCbmd4roXiQ=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/776PZ525RZFVLPQQAH6LDGQ42Q.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+This will be part of our set when we busk on Castro Street [in front of where the KiwiCo pop up used to be](https://goo.gl/maps/aPkYhFaSDyg7bGMs6). 
 
 {:.list-inline}
-- Date: When Recorded
-- Location: Where We Played
+- [Practice](https://drive.google.com/file/d/1GCYrYrmN1lxVaFR8jucHIuun0DyJo661/view?usp=drive_link)
+- Location: Mountain View, California

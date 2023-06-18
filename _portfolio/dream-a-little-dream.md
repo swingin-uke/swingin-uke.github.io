@@ -10,7 +10,9 @@ caption:
   thumbnail: https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full_caption/public/field_blog_entry_images/2020-09/shutterstock_625010075a.jpg
 ---
 
+This will be part of our set when we busk on Castro Street [in front of where the KiwiCo pop up used to be](https://goo.gl/maps/aPkYhFaSDyg7bGMs6).
+
 
 {:.list-inline}
-- Date: When Recorded
-- Location: Where We Played
+- Date: June 24, 2023
+- Location: Castro Street, Mountain View, CA

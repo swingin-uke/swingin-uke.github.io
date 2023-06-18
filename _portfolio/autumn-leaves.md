@@ -12,4 +12,7 @@ caption:
 
 This will be part of our set when we busk on Castro Street [in front of where the KiwiCo pop up used to be](https://goo.gl/maps/aPkYhFaSDyg7bGMs6). 
 
-* [Practice](https://drive.google.com/file/d/1ztK6CbyWNMnLOeVufYxEvQbAzijOj8gx/view)
+{:.list-inline}
+- [Practice](https://drive.google.com/file/d/1ztK6CbyWNMnLOeVufYxEvQbAzijOj8gx/view)
+- Date: When Recorded
+- Location: Where We Played
