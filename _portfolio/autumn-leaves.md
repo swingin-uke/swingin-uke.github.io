@@ -9,9 +9,7 @@ caption:
   subtitle: Joseph Kosma
   thumbnail: https://cdn.britannica.com/88/137188-050-8C779D64/Boston-Public-Garden.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
-{:.list-inline}
-- Date: When Recorded
-- Location: Where We Played
+This will be part of our set when we busk on Castro Street [in front of where the KiwiCo pop up used to be](https://goo.gl/maps/aPkYhFaSDyg7bGMs6). 
 
+* [Practice](https://drive.google.com/file/d/1ztK6CbyWNMnLOeVufYxEvQbAzijOj8gx/view)
