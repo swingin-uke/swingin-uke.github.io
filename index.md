@@ -1,3 +1,5 @@
 ---
 layout: home
 ---
+
+![](qrcode.png)
