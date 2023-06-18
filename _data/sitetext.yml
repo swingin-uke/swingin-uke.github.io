@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "June 24"
-        desc: "Castro Street, Mountain View"
+        desc: <a href="https://goo.gl/maps/aPkYhFaSDyg7bGMs6">Castro Street, Mountain View</a>
         icon: fas fa-city #find more at https://fontawesome.com/icons
 
   portfolio:
