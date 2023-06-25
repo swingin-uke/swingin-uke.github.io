@@ -17,19 +17,14 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Schedule"
-    text: "Come see us live!"
+    title: "Performances"
+    text: "Come see us live! Click on the links"
     section: services
     list:
       - title: <a href="https://youtube.com/playlist?list=PLICG4dbYVxMUA0333Shci-MByz93U0P2Z">June 24</a>
         desc: <a href="https://goo.gl/maps/aPkYhFaSDyg7bGMs6">Castro Street, Mountain View</a>
         icon: fas fa-city #find more at https://fontawesome.com/icons
-
-  portfolio:
-    title: "Music"
-    text: "Videos"
-    section: portfolio
-    closebutton: "Close Music"
+        iconlink: https://youtube.com/playlist?list=PLICG4dbYVxMUA0333Shci-MByz93U0P2Z
 
   about:
     title: "About Us"
